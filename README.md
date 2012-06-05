@@ -1,3 +1,3 @@
 #Programy ze srodowiska
 _____
-####Duzo programow w c 
+####Duzo srednich programow w c 
